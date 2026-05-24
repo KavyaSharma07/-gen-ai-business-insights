@@ -241,18 +241,24 @@ The LLM is grounded with actual data statistics + ML results injected into the p
 
 ## 📸 Screenshots
 
-| Overview Tab | Forecasting Tab |
-|-------------|----------------|
+| Overview Tab |
+|-------------|
 | ![Overview]<img width="1909" height="715" alt="Screenshot 2026-05-24 003127" src="https://github.com/user-attachments/assets/2a08c208-3f2b-4757-a8bc-67ca2182dd8c" />
 <img width="1909" height="873" alt="Screenshot 2026-05-24 003200" src="https://github.com/user-attachments/assets/f530472e-cb6f-433f-b14c-60d46f551bfe" />
 
-) | ![Forecast](<img width="1891" height="871" alt="Screenshot 2026-05-24 005205" src="https://github.com/user-attachments/assets/14d08888-2309-42a2-8869-6d75f1429e67" />
+)
+| Forcasting Tab |
+----------------|
+| ![Forecast](<img width="1891" height="871" alt="Screenshot 2026-05-24 005205" src="https://github.com/user-attachments/assets/14d08888-2309-42a2-8869-6d75f1429e67" />
 ) |
 
-| Segmentation Tab | Anomalies Tab |
-|-----------------|--------------|
+| Segmentation Tab |
+|-----------------|
 | ![Segmentation](<img width="1878" height="851" alt="Screenshot 2026-05-24 005223" src="https://github.com/user-attachments/assets/38b55847-79d9-45e9-8a20-b1f3fd18c096" />
-) | ![Anomalies](<img width="1897" height="858" alt="Screenshot 2026-05-24 005251" src="https://github.com/user-attachments/assets/f38029a0-d134-48ed-b26b-d47ced205c2f" />
+) 
+| Anomalies Tab |
+|--------------|
+| ![Anomalies](<img width="1897" height="858" alt="Screenshot 2026-05-24 005251" src="https://github.com/user-attachments/assets/f38029a0-d134-48ed-b26b-d47ced205c2f" />
 ) |
 
 ---
