@@ -1,5 +1,8 @@
 # 🧠 GenAI Business Insights Dashboard
-
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
+![LangChain](https://img.shields.io/badge/LLM-LangChain-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 > An end-to-end **Generative AI powered Business Intelligence system** that accepts any structured dataset, automatically cleans it, runs machine learning models, generates an interactive dashboard, and answers business questions in plain English using **Groq LLaMA 3 + LangChain**.
 
 ---
@@ -261,7 +264,12 @@ The LLM is grounded with actual data statistics + ML results injected into the p
 ---
 
 
-
+## Future Improvements
+- Multi-file dataset support
+- Cloud deployment
+- PDF insight reports
+- Vector database integration
+- Advanced forecasting models
 ---
 
 ⭐ **Star this repo if you found it useful!**
